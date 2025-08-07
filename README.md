@@ -2,3 +2,4 @@
 
 - Spring AI intro (basic prompt engineering)
 - Spring AI RAG example
+- Spring AI RAG expert system example
