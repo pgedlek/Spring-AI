@@ -5,3 +5,4 @@
 - Spring AI RAG expert system example
 - Spring AI functions (tools with external APIs)
 - Spring AI image (generate based on user description and image recognize)
+- Spring AI audio (generate audio based on user prompt)
